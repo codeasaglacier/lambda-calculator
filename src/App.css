@@ -31,4 +31,17 @@
     justify-content: center;
     margin-left: 80%;
     font-size: 30px;
+    
+}
+
+.numbers {
+    /* display: flex; */
+    flex-flow: row wrap;
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    background-color: dodgerblue;
 }
